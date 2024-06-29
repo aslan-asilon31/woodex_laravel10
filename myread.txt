@@ -1,0 +1,11 @@
+jetstream, Vue with inertia, API Support, Unit testing Pest
+======================================================
+
+
+https://woodfurniture.com/
+
+=========================================
+jwt source : 
+https://santrikoding.com/tutorial-laravel-jwt-3-installasi-dan-konfigurasi-jwt-json-web-token
+
+=================================================
